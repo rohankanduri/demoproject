@@ -1,0 +1,10 @@
+{
+  "name": "Rohan",
+  "age": 22,
+  "balanceAmount": 1500.75,
+  "interests": [
+    "coding",
+    "photography",
+    "traveling"
+  ]
+}
